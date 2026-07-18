@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harigs06/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harigs06/Leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harigs06/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/harigs06/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harigs06/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harigs06/Leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harigs06/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/harigs06/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harigs06/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/harigs06/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
