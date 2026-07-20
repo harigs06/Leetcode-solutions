@@ -14,39 +14,36 @@
  * }
  */
 class BSTIterator {
-    List<Integer> list ;
-    int size ;
-    int curr ;
+    private Deque<TreeNode> stack;
 
     public BSTIterator(TreeNode root) {
-        list = new ArrayList<>();
-        traversal(root);
-        size = list.size();
-        curr = -1;
-        
-    }
-
-    public void traversal(TreeNode root){
-
-        if(root == null)return ;
-
-        traversal(root.left);
-        list.add(root.val);
-        traversal(root.right);
-
+        stack = new ArrayDeque<>();
+        // Push all left children starting from root
+        pushAllLeft(root);
     }
     
     public int next() {
-
-        if(curr < size){
-            return list.get(++curr);
+        // Top of stack is the next smallest element
+        TreeNode node = stack.pop();
+        
+        // If it has a right child, push its left branch
+        if (node.right != null) {
+            pushAllLeft(node.right);
         }
         
-        return -1;
+        return node.val;
     }
     
     public boolean hasNext() {
-        return (curr < size-1);
+        return !stack.isEmpty();
+    }
+
+    // Helper method to push all left descendants of a node
+    private void pushAllLeft(TreeNode node) {
+        while (node != null) {
+            stack.push(node);
+            node = node.left;
+        }
     }
 }
 
