@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harigs06/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harigs06/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harigs06/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/harigs06/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harigs06/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/harigs06/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harigs06/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Heap (Priority Queue)
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harigs06/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harigs06/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/harigs06/Leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Quickselect
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harigs06/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/harigs06/Leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
