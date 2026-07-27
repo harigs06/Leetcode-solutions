@@ -4,15 +4,15 @@ class Solution {
         int precolor = image[sr][sc];
         image[sr][sc] = color;
 
-        Queue<Pair<Integer,Integer>> que = new LinkedList<>();
-        que.offer(new Pair(sr,sc));
+        Queue<int[]> que = new LinkedList<>();
+        que.offer(new int[]{sr,sc});
 
         int n = image.length;
         int m = image[0].length;
 
         while(!que.isEmpty()){
-            int r = que.peek().getKey();
-            int c = que.peek().getValue();
+            int r = que.peek()[0];
+            int c = que.peek()[1];
 
             que.poll();
 
@@ -24,7 +24,7 @@ class Solution {
                 int nCol = c+dCol[i];
 
                 if(nRow >=0 && nCol >= 0 && nRow < n && nCol < m && image[nRow][nCol] == precolor){
-                    que.offer(new Pair(nRow,nCol));
+                    que.offer(new int[]{nRow,nCol});
                     image[nRow][nCol] = color;
                 }
             }
