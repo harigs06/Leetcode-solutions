@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/harigs06/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harigs06/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harigs06/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/harigs06/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harigs06/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harigs06/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/harigs06/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/harigs06/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harigs06/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harigs06/Leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/harigs06/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harigs06/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harigs06/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harigs06/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/harigs06/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harigs06/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/harigs06/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harigs06/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harigs06/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
@@ -167,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/harigs06/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harigs06/Leetcode-solutions/tree/master/0055-jump-game) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harigs06/Leetcode-solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harigs06/Leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
