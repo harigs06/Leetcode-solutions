@@ -15,7 +15,6 @@ class Solution {
 
         int n = grid.length;
         int m = grid[0].length;
-        boolean[][] visited = new boolean[n][m];
 
         Queue<OrangePair> que = new LinkedList<>();
 
@@ -49,10 +48,9 @@ class Solution {
                 int nRow = r+dRow[i];
                 int nCol = c+dCol[i];
 
-                if(nRow < n && nCol < m && nRow >= 0 && nCol >= 0 && grid[nRow][nCol] == 1 && !visited[nRow][nCol]){
+                if(nRow < n && nCol < m && nRow >= 0 && nCol >= 0 && grid[nRow][nCol] == 1 ){
                     que.offer(new OrangePair(nRow,nCol,t+1));
                     grid[nRow][nCol] = 2;
-                    visited[nRow][nCol] = true;
                 }
 
                
