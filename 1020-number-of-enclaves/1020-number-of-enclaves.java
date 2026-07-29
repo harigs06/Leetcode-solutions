@@ -4,25 +4,25 @@ class Solution {
        int n = grid.length;
         int m = grid[0].length;
 
-        boolean[][] visited = new boolean[n][m];
+        // boolean[][] visited = new boolean[n][m];
 
         for(int i = 0 ; i < m ; i++){
             if(grid[0][i] == 1){
-                dfs(visited,grid,0,i);
+                dfs(grid,0,i);
             }
 
             if(grid[n-1][i] == 1){
-                dfs(visited,grid,n-1,i);
+                dfs(grid,n-1,i);
             }
         }
 
         for(int i = 0 ; i < n ; i++){
             if(grid[i][0] == 1){
-                dfs(visited,grid,i,0);
+                dfs(grid,i,0);
             }
 
             if(grid[i][m-1] == 1){
-                dfs(visited,grid,i,m-1);
+                dfs(grid,i,m-1);
             }
         }
 
@@ -30,7 +30,7 @@ class Solution {
 
         for(int i = 0; i < n ; i++){
             for(int j = 0 ; j < m ; j++){
-                if(!visited[i][j] && grid[i][j] == 1){
+                if(grid[i][j] == 1){
                     ans++;
                 }
             }
@@ -39,8 +39,8 @@ class Solution {
         return ans;
     }
 
-    void dfs(boolean[][] visited , int[][] grid , int r , int c){
-        visited[r][c] = true;
+    void dfs(int[][] grid , int r , int c){
+        grid[r][c] = 0;
 
         int n = grid.length;
         int m = grid[0].length;
@@ -54,8 +54,8 @@ class Solution {
             int nCol = c + dCol[i];
             
 
-            if(nRow < n && nRow >= 0 && nCol < m && nCol >= 0 && grid[nRow][nCol] != 0 && !visited[nRow][nCol]){
-                dfs(visited,grid,nRow,nCol);
+            if(nRow < n && nRow >= 0 && nCol < m && nCol >= 0 && grid[nRow][nCol] != 0) {
+                dfs(grid,nRow,nCol);
             }
         }
 
