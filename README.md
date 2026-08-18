@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harigs06/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/harigs06/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/harigs06/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/harigs06/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harigs06/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/harigs06/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/harigs06/Leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harigs06/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/harigs06/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harigs06/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/harigs06/Leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harigs06/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0721-accounts-merge](https://github.com/harigs06/Leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harigs06/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harigs06/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harigs06/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/harigs06/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harigs06/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/harigs06/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harigs06/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harigs06/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/harigs06/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harigs06/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/harigs06/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harigs06/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/harigs06/Leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harigs06/Leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -179,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/harigs06/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harigs06/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/harigs06/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/harigs06/Leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Quickselect
 |  |
 | ------- |
@@ -213,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/harigs06/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harigs06/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/harigs06/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1020-number-of-enclaves](https://github.com/harigs06/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harigs06/Leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/harigs06/Leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
